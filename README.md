@@ -1,2 +1,1 @@
--> This project contains the analysis of Data collected from all the powewrlifting meets conducted all over the world. SAS is used for cleaning the data and getting the date ready for visualization.
--> Tableau is used to create a dashboard to visualize the data.
+This project contains the analysis of Data collected from all the powewrlifting meets conducted all over the world. SAS is used for cleaning the data and getting the date ready for visualization. Tableau is used to create a dashboard to visualize the data.
